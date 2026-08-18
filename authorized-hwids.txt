@@ -1,0 +1,4 @@
+# PoE Trade Assistant authorized HWIDs
+# One SHA-256 HWID per line. Text after # is an optional customer note.
+# Example:
+# 0123456789ABCDEF0123456789ABCDEF0123456789ABCDEF0123456789ABCDEF # Customer name
